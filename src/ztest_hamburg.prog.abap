@@ -8,3 +8,4 @@ REPORT ZTEST_HAMBURG.
 write: 'Test'.
 write: 'Hallo Hamburg'.
 write: 'Hallo Hamburg2'.
+write: 'Bugfix'.
