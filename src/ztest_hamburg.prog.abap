@@ -6,3 +6,5 @@
 REPORT ZTEST_HAMBURG.
 
 write: 'Test'.
+write: 'Hallo Hamburg'.
+
